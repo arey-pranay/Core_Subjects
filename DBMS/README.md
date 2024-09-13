@@ -28,4 +28,5 @@ Sigma, Pi, Union, Intersection etc query optimization
 
 Relational Calculus
 
-Types of joins 
+Types of joins:
+Inner join - Only what we want to consider
