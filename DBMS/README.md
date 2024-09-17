@@ -86,3 +86,27 @@ database.
 - We can create a view by selecting fields from one or more tables present in the database. A View can either have all the rows of a table or specific rows based on certain conditions.
 
 CREATE VIEW StudentNames AS SELECT S_ID, NAME FROM StudentDetails ORDER BY NAME;
+
+#### SQL
+
+SELECT MAX(column_name)
+FROM table_name
+WHERE condition;
+
+
+The IN operator allows you to specify multiple values in a WHERE clause.
+The IN operator is a shorthand for multiple OR conditions.
+
+The UNION operator is used to combine the result-set of two or more SELECT statements.
+
+The GROUP BY statement groups rows that have the same values into summary rows, like "find
+the number of customers in each country".
+
+The GROUP BY statement is often used with aggregate functions
+(COUNT(), MAX(), MIN(), SUM(), AVG()) to group the result-set by one or more
+
+The HAVING clause was added to SQL because the WHERE keyword cannot be used with
+aggregate functions.
+*WHERE is given priority over HAVING.
+
+CREATE / DROP -> Table or Database
