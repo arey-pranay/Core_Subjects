@@ -110,3 +110,13 @@ aggregate functions.
 *WHERE is given priority over HAVING.
 
 CREATE / DROP -> Table or Database
+
+Joins in sql : https://youtu.be/lXQzD09BOH0?si=uU9o7HT_H6R9PKJo
+
+![WhatsApp Image 2024-09-19 at 12 13 43_dcb9a72e](https://github.com/user-attachments/assets/17ff8c42-a614-4c14-9d73-5cb47e1314de)
+
+Subquery in sql : https://youtu.be/Vj6RqA_X-IE?si=IbF6Ko7PMxJl547p
+
+![WhatsApp Image 2024-09-19 at 12 13 39_dec9b700](https://github.com/user-attachments/assets/e697666d-6679-4aad-8b66-ed14e896ebdf)
+
+
